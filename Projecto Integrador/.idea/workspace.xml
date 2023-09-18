@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8ed6768-ddc7-4592-98ff-ffa8434aa125" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Ulnq2Nl4F4YBJO6sFA2My4dUOq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/57320/Downloads/proyectoIntegrador-expenseReportApp-modulo4",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.dao.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExpenseApp">
+    <configuration name="ExpenseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpenseApp" />
+      <module name="Projecto Integrador" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Projecto Integrador" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projecto Integrador" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projecto Integrador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="main.dao.impl.UserDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoImplTest.deleteUser_ShouldDeleteUser_WhenValidId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projecto Integrador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="main.dao.impl.UserDaoImplTest" />
+      <option name="METHOD_NAME" value="deleteUser_ShouldDeleteUser_WhenValidId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoImplTest.updateUser_ShouldUpdateUser_WhenValidExpenseDto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projecto Integrador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="main.dao.impl.UserDaoImplTest" />
+      <option name="METHOD_NAME" value="updateUser_ShouldUpdateUser_WhenValidExpenseDto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExpenseApp" />
+        <item itemvalue="JUnit.All in Projecto Integrador" />
+        <item itemvalue="JUnit.UserDaoImplTest" />
+        <item itemvalue="JUnit.UserDaoImplTest.deleteUser_ShouldDeleteUser_WhenValidId" />
+        <item itemvalue="JUnit.UserDaoImplTest.updateUser_ShouldUpdateUser_WhenValidExpenseDto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8ed6768-ddc7-4592-98ff-ffa8434aa125" name="Changes" comment="" />
+      <created>1693523228943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693523228943</updated>
+    </task>
+    <servers />
+  </component>
+</project>
