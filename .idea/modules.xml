@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clase5-Interfaces/Clase5-Interfaces.iml" filepath="$PROJECT_DIR$/Clase5-Interfaces/Clase5-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploInterfaces/EjemploInterfaces.iml" filepath="$PROJECT_DIR$/EjemploInterfaces/EjemploInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploMap/EjemploMap.iml" filepath="$PROJECT_DIR$/EjemploMap/EjemploMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-list-set/Ejercicios-list-set.iml" filepath="$PROJECT_DIR$/Ejercicios-list-set/Ejercicios-list-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FuncionesString/FuncionesString.iml" filepath="$PROJECT_DIR$/FuncionesString/FuncionesString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-lessons.iml" filepath="$PROJECT_DIR$/.idea/Java-lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primer-projecto/Primer-projecto.iml" filepath="$PROJECT_DIR$/Primer-projecto/Primer-projecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectoCalculadora/ProjectoCalculadora.iml" filepath="$PROJECT_DIR$/ProjectoCalculadora/ProjectoCalculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto-Ajedrez/Proyecto-Ajedrez.iml" filepath="$PROJECT_DIR$/Proyecto-Ajedrez/Proyecto-Ajedrez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto-persona/Proyecto-persona.iml" filepath="$PROJECT_DIR$/Proyecto-persona/Proyecto-persona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuraDeControl/StructuraDeControl.iml" filepath="$PROJECT_DIR$/StructuraDeControl/StructuraDeControl.iml" />
+    </modules>
+  </component>
+</project>
